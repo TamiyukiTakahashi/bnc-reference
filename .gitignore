@@ -1,0 +1,19 @@
+# --- LaTeX build artefacts ---
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nav
+*.snm
+
+# Editors / OS
+*~
+.#*
+.DS_Store
